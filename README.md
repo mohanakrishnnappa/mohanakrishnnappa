@@ -4,12 +4,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mohana Krishnnappa</title>
+  <style>
+    .body {
+      font-weight: bold;
+    }
+  </style>
 </head>
 
 <body>
-  <center><a href="https://www.mohanakrishnnappa.com/" target="_blank"><strong>My Personal Portfolio</strong></a>
-  </center>
+  <p>I am Mohana Krishnnappa</p>
+  <a href="https://www.mohanakrishnnappa.com/" target="_blank"><strong>My Personal Portfolio</strong></a>
 
   <!-- - 👋 Hi, I’m @mohanakrishnnappa
 - 👀 I’m interested in ...
