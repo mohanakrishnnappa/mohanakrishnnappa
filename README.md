@@ -8,6 +8,6 @@
 mohanakrishnnappa/mohanakrishnnappa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-My Website: https://www.mohanakrishnnappa.com/
+**<a href="https://www.mohanakrishnnappa.com/">My Personal Portfolio</a>**
 
-<a href="https://google.com">I am Mohan </a>
+
