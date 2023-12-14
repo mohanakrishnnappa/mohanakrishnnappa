@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=00AE61&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Mohana+Krishnnappa!;JavaScript+Web+Developer;and+WordPress+Designer;" />
+</h1>
+
 <a href="https://app.daily.dev/mohanakrishnnappa"><img src="https://api.daily.dev/devcards/ed8a90ee0d624f51a41f4072c0ac9cef.png?r=fvj" width="400" alt="Mohana Krishnnappa's Dev Card"/></a>
 
 # 💻 Tech Stack:
